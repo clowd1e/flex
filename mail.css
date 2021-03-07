@@ -1,0 +1,63 @@
+.container {
+    width: 1000px;
+    height: 1000px;
+    align-items: center;
+    justify-items: center;
+    margin: auto;
+}
+.form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.div1 {
+    background-color: red;
+}
+.div2 {
+    background-color: blue;
+}
+.div3 {
+    background-color: grey;
+}
+.div4 {
+    background-color: yellow;
+}
+.div5 {
+    background-color: green;
+}
+.div6 {
+    background-color: pink;
+}
+.div7 {
+    background-color: purple;
+}
+.div8 {
+    background-color: brown;
+}
+.div9 {
+    background-color: gold;
+}
+.div10 {
+    background-color: cyan;
+}
+.div11 {
+    background-color: darkblue;
+}
+.div12 {
+    background-color: lime;
+}
+.div13 {
+    background-color: orange;
+}
+.div14 {
+    background-color: violet;
+}
+div div div {
+    width: 200px;
+    height: 200px;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
